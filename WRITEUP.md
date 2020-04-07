@@ -112,7 +112,7 @@ Model size => 26 MiB
 
 All the models were insufficient because they failed to perform as per expectations. The inference time was high and even changing the probability threshold to values such as 0.3, 0.5, 0.7 etc. did not help as the lower threshold was creating false positives.
 
-![Undetected Person](Undetected.png)
+![Undetected Person](undetected.png)
 
 All the models also failed to detect the person above.  
 Note - In case the image is not visible, please open the file `Undetected.png` manually.
